@@ -3,7 +3,7 @@
 This project analyzes a dataset of e-commerce orders to understand monthly customer activity and trends.
 
 ## Dataset
-Columns: order_id, customer_id, product_id, order_date, quantity, payment_method
+Columns: order_id, customer_id, product_id, order_date, quantity, payment_method <br>
 Size: Medium-sized dataset (4000 rows x 06 columns)
 
 ## Objectives
